@@ -3,7 +3,7 @@ const BLOG = {
   author: 'molun',
   email: 'mr.lmh00@gmail.com',
   link: 'https://molun.tech',
-  description: 'This gonna be an awesome website.',
+  description: '人生苦短,此时不膜,更待何时?',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
